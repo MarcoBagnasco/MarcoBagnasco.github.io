@@ -19,7 +19,7 @@ h1 {
   color: #fff;
 }
 .img {
-  width: 40vw;
+  width: 700px;
   height: unset;
   /* height: 50px;
   background-image: url('./source/img/logo_bianoc.png');
@@ -28,7 +28,7 @@ h1 {
   background-position: center; */
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 760px) {
   h1 {
     font-size: 30px;
   }
