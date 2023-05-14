@@ -27,6 +27,9 @@ h1 {
   background-repeat: no-repeat;
   background-position: center; */
 }
+.test {
+  
+}
 
 @media screen and (max-width: 760px) {
   h1 {
